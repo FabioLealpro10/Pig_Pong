@@ -120,7 +120,7 @@ while True:
     pygame.display.update()
     # atualizar
     if ponto:
-        sleep(3)
+        sleep(2)
         ponto = False
     if x==1:
         sleep(5)
